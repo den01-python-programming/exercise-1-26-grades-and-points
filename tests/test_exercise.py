@@ -53,4 +53,4 @@ def test_exercise():
     assert [output[8],output[9]] == ["Give points [0-100]:","Grade: 3"]
     assert [output[10],output[11]] == ["Give points [0-100]:","Grade: 4"]
     assert [output[12],output[13]] == ["Give points [0-100]:","Grade: 5"]
-    assert [output[14],output[15]] == ["Give points [0-100]:","Grade: impossible!"]
+    assert [output[14],output[15]] == ["Give points [0-100]:","Grade: incredible!"]
